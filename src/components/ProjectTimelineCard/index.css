@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.chrono-container {
+  width: 400px;
+  height: 600px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.img-width {
+  width: 400px;
+  height: 300px;
+}
+.card-3 {
+  display: flex;
+  flex-direction: row;
+}
+.img-colck {
+  margin-top: 19px;
+  margin-right: 5px;
+}
